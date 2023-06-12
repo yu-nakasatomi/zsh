@@ -11,4 +11,4 @@ function add_line {
 # 出力の後に改行する
 PROMPT_COMMAND='add_line'
 
-export PS1='%T💫%F{blue}%n%F{white}:%B%~%b$% '
+export PS1='%T💫%F{blue}%n%F{white}:%.%# '
