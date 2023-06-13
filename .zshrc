@@ -1,5 +1,6 @@
 # 2022 1/22
 # 2023 5/23
+# 2023 6/13
 
 function add_line {
   if [[ -z "${PS1_NEWLINE_LOGIN}" ]]; then
